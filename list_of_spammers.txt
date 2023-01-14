@@ -1,3 +1,3 @@
 {
-    5187135696:"Testing", # user_id:reason
+    5187135696:"Testing",
 }
