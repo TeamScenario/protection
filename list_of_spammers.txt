@@ -1,3 +1,3 @@
 {
-    5824231649:"Can't respect other's bot project!",
+    0000:"Just a test",
 }
